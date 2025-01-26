@@ -1,6 +1,6 @@
 let scrollPercentage = () => {
 
-	  let scrollProgress = document.getElementById("progress");
+    let scrollProgress = document.getElementById("progress");
     let progressValue = document.getElementById("progress-value");
 	
     let pos = document.documentElement.scrollTop;
