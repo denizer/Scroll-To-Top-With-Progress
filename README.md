@@ -1,2 +1,2 @@
 # Scroll-To-Top-With-Progress
-JS Scroll to top with progress indicator
+Vanilla JS - Scroll to top with progress indicator
